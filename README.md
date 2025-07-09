@@ -12,6 +12,8 @@ A Streamlit web application for real-time air quality monitoring and prediction 
 - **Data Visualization**: Pie chart showing PM2.5 levels across different cities
 - **Offline Operation**: Works completely offline with no external API keys required
 
+  
+
 ## Installation
 
 1. **Clone or download the project files**
@@ -69,15 +71,6 @@ A Streamlit web application for real-time air quality monitoring and prediction 
 - `plotly`: Data visualization
 - `streamlit-folium`: Streamlit integration for Folium maps
 
-## File Structure
-
-```
-airscan-lite/
-├── app.py              # Main application file
-├── requirements.txt    # Python dependencies
-└── README.md          # This file
-```
-
 ## Customization
 
 ### Adding New Cities
@@ -127,14 +120,28 @@ Update the `calculate_aqi_category()` function to use different AQI standards or
 - 4GB RAM recommended
 - Modern web browser
 
+ ## Team Members:
+- Gargi Bajpai
+- Ashmita Goyal
+- LipikaTomar
+
 ## License
 
 This project is for educational and demonstration purposes. The simulated data should not be used for real-world air quality monitoring.
 
-## Contributing
 
-Feel free to submit issues, feature requests, or pull requests to improve the application.
+##Screnshots 
+![WhatsApp Image 2025-07-09 at 17 53 22_81885931](https://github.com/user-attachments/assets/5b49ae59-5784-4def-8678-85b991a4a9e8)
+![WhatsApp Image 2025-07-09 at 17 54 15_6e07ae64](https://github.com/user-attachments/assets/58c67cfa-c245-4ede-a18f-9db3553d7d3c)
+![WhatsApp Image 2025-07-09 at 17 54 57_a6f6c066](https://github.com/user-attachments/assets/bc4db520-6218-4894-b030-071b74086fd3)
+![WhatsApp Image 2025-07-09 at 17 55 25_d9117950](https://github.com/user-attachments/assets/a432980c-4593-4a92-a606-6dec7d8bed32)
+![WhatsApp Image 2025-07-09 at 17 55 54_ca07b829](https://github.com/user-attachments/assets/cc3c3130-92d0-4b27-9dc1-d4a47b4740a5)
+![WhatsApp Image 2025-07-09 at 17 56 14_8e088155](https://github.com/user-attachments/assets/ea5830b8-adcb-45ef-a3b8-0aae86a87118)
 
----
+
+
+
+
+
 
 **Note**: This application uses simulated data for demonstration purposes. For real-time air quality monitoring, please refer to official government sources like the Central Pollution Control Board (CPCB) in India. 
