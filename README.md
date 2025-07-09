@@ -12,8 +12,10 @@ A Streamlit web application for real-time air quality monitoring and prediction 
 - **Data Visualization**: Pie chart showing PM2.5 levels across different cities
 - **Offline Operation**: Works completely offline with no external API keys required
 
-  
+  ## 🚀 Live Demo
+  https://gargibajpai-isro-air-quality-monitoring-project-app-xqkraq.streamlit.app/
 
+  
 ## Installation
 
 1. **Clone or download the project files**
