@@ -1,0 +1,7 @@
+*.nc4
+*.tif
+*.pkl
+data/
+__pycache__/
+*.pyc
+.DS_Store 
